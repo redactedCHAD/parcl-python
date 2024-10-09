@@ -5,7 +5,7 @@ def fetch_market_data():
     url = "https://api.parcllabs.com/v1/search/markets"
     headers = {
         "accept": "application/json",
-        "Authorization": "obHpASVAskolDd51FcVINuM2bZ1A8rHEvHxMeUDVftU"  # Replace YOUR_API_KEY with your actual API key
+        "Authorization": ""  # Replace YOUR_API_KEY with your actual API key
     }
 
     try:
